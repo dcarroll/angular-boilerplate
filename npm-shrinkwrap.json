@@ -1,0 +1,22 @@
+{
+  "name": "ModGen",
+  "version": "0.0.0",
+  "dependencies": {
+    "string": {
+      "version": "1.5.0",
+      "from": "string@"
+    },
+    "esprima": {
+      "version": "1.0.3",
+      "from": "esprima@"
+    },
+    "underscore": {
+      "version": "1.5.1",
+      "from": "underscore@"
+    },
+    "xregexp": {
+      "version": "2.0.0",
+      "from": "xregexp@"
+    }
+  }
+}
