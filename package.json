@@ -4,7 +4,7 @@
   "description": "none",
   "main": "app.js",
   "dependencies": {
-    "string": "1.5.0",
+    "string": "3.3.3",
     "esprima": "1.0.3",
     "underscore": "1.5.1",
     "xregexp": "2.0.0"
