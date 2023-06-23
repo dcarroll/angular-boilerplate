@@ -4,10 +4,10 @@
   "description": "none",
   "main": "app.js",
   "dependencies": {
-    "string": "1.5.0",
+    "string": "3.3.3",
     "esprima": "4.0.1",
     "underscore": "1.12.1",
-    "xregexp": "2.0.0"
+    "xregexp": "5.1.1"
   },
   
   "scripts": {
