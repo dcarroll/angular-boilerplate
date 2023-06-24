@@ -6,7 +6,7 @@
   "dependencies": {
     "string": "3.3.3",
     "esprima": "4.0.1",
-    "underscore": "1.12.1",
+    "underscore": "1.13.6",
     "xregexp": "5.1.1"
   },
   
