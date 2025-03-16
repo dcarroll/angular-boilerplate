@@ -7,7 +7,7 @@
     "string": "3.3.3",
     "esprima": "4.0.1",
     "underscore": "1.12.1",
-    "xregexp": "5.1.1"
+    "xregexp": "5.1.2"
   },
   
   "scripts": {
